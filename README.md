@@ -1,5 +1,5 @@
 # SphereVolumeCalculator
-Application to figure out the volume of a sphere
+Application to figure out the volume of a sphere using the formula V = 4/3 * PI * radius ^ 3 
 
 # Status
 * Finished
