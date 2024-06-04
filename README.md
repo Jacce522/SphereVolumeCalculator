@@ -10,6 +10,6 @@ Application to figure out the volume of a sphere
 
 
 # Pictures
-![SphereVolumeCalculator](pictures/volumecalculator1.png)
+![SphereVolumeCalculator](pictures/volumecalculator1.PNG)
 
-![SphereVolumeCalculator](pictures/volumecalculator2.png)
+![SphereVolumeCalculator](pictures/volumecalculator2.PNG)
